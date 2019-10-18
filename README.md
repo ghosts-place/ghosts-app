@@ -1,1 +1,3 @@
-# ghosts-app
+# Ghosts
+
+Where hosts come, ghosts go. ;)
